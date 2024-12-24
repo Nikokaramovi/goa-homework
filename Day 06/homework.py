@@ -2,7 +2,7 @@ age=13
 age1=age+10
 print(type(age1))
 
-lastname=" karamovi"
+lastname = ("enter your last name:  ")
 print(lastname*100)
 
 a="basket"
