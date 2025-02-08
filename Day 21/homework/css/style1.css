@@ -1,0 +1,28 @@
+.button1{
+    background-color: black;
+    color: red;
+}
+
+.button2{
+    background-color: red;
+    color: black;
+    border-radius: 50%;
+}
+
+.button3{
+    background-color: green;
+    color: yellow;
+    border-radius: 25px;
+}
+
+.button4{
+    color: aqua;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.button5{
+    color: brown;
+    background-color: aqua;
+    border-radius: 5px;
+}

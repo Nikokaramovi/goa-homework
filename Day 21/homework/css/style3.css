@@ -1,0 +1,25 @@
+/* /* პირველ რიგში გავცენტრე დივი შემდეგ შევუცვალე უკანა ფონის ფერი მერე გავუკთე ბორდერი და შემდეგ ჩრდილები / */
+
+.div1{
+    text-align: center;
+    background-color: red;
+    border: 5px solid;
+    box-shadow: 5px 5px 5px;
+}
+
+  /* აქაც პირველ რიგში გავცენტრე შემდეგ ბორდერი გავუკეთე ლურჯი ფერის უკანა ფონს მივეცი შავიფერი ტექსტის ფერი ავიღე თეთრი და ჩრდილი გავაკეთე წითელი  */
+.div2{
+    text-align: center;
+    border: 5px solid blue;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 5px 5px red;
+}
+
+/* აქაც ჯერ გავცენტრე მერე გავუკეთე ბერდერი ყავისფერი მერე უკანა ფონი მწვანე ფერის და შემდეგ ჩრდილი ლურჯი ფერის */
+.div3{
+    text-align: center;
+    border: 5px solid brown;
+    background-color: green;
+    box-shadow: 5px 5px 5px blue;
+}
